@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2019-12-03 19:49:44
- * @LastEditTime: 2019-12-03 19:53:15
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \GoWebf:\mayun\bianchengzhuji\tstring\demo1\README.md
- -->
  ##  蛮力移位
  1、定义指向该字符串的指针 str
  2、字符串的长度为n

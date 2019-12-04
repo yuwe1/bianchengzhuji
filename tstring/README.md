@@ -1,11 +1,15 @@
-/*
- * @Author: your name
- * @Date: 2019-12-03 20:38:40
- * @LastEditTime: 2019-12-03 20:39:56
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \GoWebf:\mayun\bianchengzhuji\tstring\README.go
- */
 ## 题目要求
-
+### 字符串旋转
 随机给出一个字符串，要求对前m个字符放到原来字符串的尾部
+### 字符串包含
+给定一个长字符串a和短字符串b，高效判断短字符串b中的所有字符是否都在长字符串中
+如：
+```go
+a := "ABCD"
+b := "BAD"//输出true
+
+a := "ABCD"
+b := "BAE"//false
+
+a := "ABCD"
+b := "AA" //true

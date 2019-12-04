@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2019-12-02 20:44:46
- * @LastEditTime: 2019-12-03 20:47:21
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \GoWebf:\mayun\bianchengzhuji\README.md
- -->
 # 编程珠玑算法练习
 
 ## 介绍
