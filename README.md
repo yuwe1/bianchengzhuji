@@ -7,3 +7,4 @@
 ## 目录
 ### 字符串
 #### [字符串旋转](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring)
+#### [字符串包含](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo3)
