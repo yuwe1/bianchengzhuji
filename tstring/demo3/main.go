@@ -18,7 +18,7 @@ func StringContain(a string, b string) bool {
 		}
 		// 如果在遍历的过程中遇到不符合情况的字符，则上一个循环会比较到 ar 最后，可用 j 作为判断
 		// 如果在循环的过程中找到相同字符，第二个循环会提前结束
-		if j > len(ar) {
+		if j >= len(ar) {
 			return false
 		}
 	}
@@ -67,6 +67,6 @@ func StringSortContain(a string, b string) bool {
 	return true
 }
 func main() {
-	fmt.Println(StringContain("abcd", "d"))
+	fmt.Println(StringContain("ABCD", "BAE"))
 	fmt.Println(StringSortContain("adhfsf", "f"))
 }
