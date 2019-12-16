@@ -10,7 +10,7 @@
 #### [字符串包含](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo3)
 #### [字符串全排列——递归](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo4)
 #### [字符串全排列——字典序](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo5)
-#### [字符串全排列——字典序](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo6)
+#### [字符串转换整数——解决溢出](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo6)
 
 ## 联系我
 - 邮箱 yuweijiubayiqi@163.com
