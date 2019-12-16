@@ -12,6 +12,8 @@
 #### [字符串全排列——递归](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo4)
 #### [字符串全排列——字典序](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo5)
 #### [字符串转换整数——解决溢出](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo6)
+#### [回文字符串](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo7)
+#### [最长回文字串](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo8)
 
 ## 目录【github】
 ### 字符串
@@ -21,10 +23,12 @@
 #### [字符串全排列——递归](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo4)
 #### [字符串全排列——字典序](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo5)
 #### [字符串转换整数——解决溢出](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo6)
+#### [回文字符串](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo7)
+#### [最长回文字串](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo8)
 
-更多详细笔记可关注微信公众号  ^_^ ^_^ 
-更多详细笔记可关注微信公众号  ^_^ ^_^ 
-更多详细笔记可关注微信公众号  ^_^ ^_^ 
+更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
+更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
+更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
 
 
 ## 联系我
