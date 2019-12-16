@@ -4,13 +4,24 @@
 本仓库的代码为笔者在学习编程之法这本书时做的笔记
 编程语言为Golang,如果觉得有收获，麻烦大家给我点个 star ^_^
 
-## 目录
+## 目录【码云】
 ### 字符串
-#### [字符串旋转](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring)
+#### [字符串旋转——蛮力移位](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo1)
+#### [字符串旋转——三步反转](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo2)
 #### [字符串包含](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo3)
 #### [字符串全排列——递归](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo4)
 #### [字符串全排列——字典序](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo5)
 #### [字符串转换整数——解决溢出](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo6)
+
+## 目录【github】
+### 字符串
+#### [字符串旋转——蛮力移位](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo1)
+#### [字符串旋转——三步反转](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo2)
+#### [字符串包含](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo3)
+#### [字符串全排列——递归](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo4)
+#### [字符串全排列——字典序](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo5)
+#### [字符串转换整数——解决溢出](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo6)
+
 
 ## 联系我
 - 邮箱 yuweijiubayiqi@163.com
