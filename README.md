@@ -22,7 +22,7 @@
 #### [字符串全排列——字典序](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo5)
 #### [字符串转换整数——解决溢出](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo6)
 
-
+更多详细笔记可关注微信公众号
 ## 联系我
 - 邮箱 yuweijiubayiqi@163.com
 - QQ  2354677290
