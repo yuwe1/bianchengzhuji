@@ -1,6 +1,9 @@
 package main
 
-import "strings"
+import (
+	"fmt"
+	"strings"
+)
 
 // 对字符串按照空格进行切割,存放到数组中，对数组进行反转
 func ResverString(str *string) {
@@ -16,7 +19,21 @@ func ResverString(str *string) {
 	}
 	*str = strings.Join(strs, " ")
 }
+func ResverString_one(str string) {
+	strs := []rune(str)
+	i := 0
+	j := len(strs) - 1
+	for i < j {
+		temp := strs[i]
+		strs[i] = strs[j]
+		i++
+		strs[j] = temp
+		j--
+	}
+	fmt.Println(string(strs))
+}
 func main() {
+	ResverString_one("July")
 	// str := "I am a student."
 
 	// ResverString(&str)
