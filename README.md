@@ -15,6 +15,9 @@
 #### [回文字符串](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo7)
 #### [最长回文字串](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo8)
 
+### 数组
+#### [寻找最小的k个数](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
+
 ## 目录【github】
 ### 字符串
 #### [字符串旋转——蛮力移位](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo1)
@@ -25,6 +28,9 @@
 #### [字符串转换整数——解决溢出](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo6)
 #### [回文字符串](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo7)
 #### [最长回文字串](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo8)
+
+### 数组
+#### [寻找最小的k个数](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
 
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
