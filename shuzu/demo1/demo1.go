@@ -45,9 +45,37 @@ func QuickSelect(data []int, left, right int) {
 	}
 
 }
+
+// 利用部分排序寻找最小的k个数
+func FindNumByPartSort(data []int, k int) (result []int) {
+	// 默认前k个数为最小
+	result = data[0:k]
+
+	for i := k; i < len(data); i++ {
+		// 找到最大值的坐标
+		max := select_sort(result)
+		if result[max] > data[i] {
+			result[max], data[i] = data[i], result[max]
+		}
+	}
+
+	return result
+}
+func select_sort(data []int) (max int) {
+	max = 0
+	for i := 1; i < len(data); i++ {
+		if data[i] > data[max] {
+			max = i
+		}
+	}
+	return max
+}
 func main() {
 	data := []int{5, 3, 7, 6, 4, 1, 0, 2, 9, 10, 8}
 	// QuickSelect(data, 0, 10)
 	// fmt.Println(data)
-	fmt.Println(FindNumBySort(data, 5))
+	// fmt.Println(FindNumBySort(data, 5))
+	// fmt.Println(select_sort(data))
+	fmt.Println(FindNumByPartSort(data, 5))
+
 }
