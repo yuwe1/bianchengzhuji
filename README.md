@@ -17,6 +17,7 @@
 
 ### 数组
 #### [寻找最小的k个数](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
+#### [寻找最小的k个数———利用最大堆](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
 
 ## 目录【github】
 ### 字符串
@@ -31,7 +32,7 @@
 
 ### 数组
 #### [寻找最小的k个数](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
-
+#### [寻找最小的k个数———利用最大堆](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
 更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
