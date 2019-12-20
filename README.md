@@ -16,8 +16,8 @@
 #### [最长回文字串](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/tstring/demo8)
 
 ### 数组
-#### [寻找最小的k个数](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo1)
-#### [寻找最小的k个数———利用最大堆](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo2)
+#### [寻找最小的k个数](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/shuzu/demo1)
+#### [寻找最小的k个数———利用最大堆](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/shuzu/demo2)
 
 ## 目录【github】
 ### 字符串
