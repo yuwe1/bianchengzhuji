@@ -70,6 +70,9 @@ func select_sort(data []int) (max int) {
 	}
 	return max
 }
+
+// 用堆代替数组
+
 func main() {
 	data := []int{5, 3, 7, 6, 4, 1, 0, 2, 9, 10, 8}
 	// QuickSelect(data, 0, 10)
