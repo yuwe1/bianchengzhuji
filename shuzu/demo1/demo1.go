@@ -75,10 +75,10 @@ func select_sort(data []int) (max int) {
 
 func main() {
 	data := []int{5, 3, 7, 6, 4, 1, 0, 2, 9, 10, 8}
-	// QuickSelect(data, 0, 10)
-	// fmt.Println(data)
+	QuickSelect(data, 0, 10)
+	fmt.Println(data)
 	// fmt.Println(FindNumBySort(data, 5))
 	// fmt.Println(select_sort(data))
-	fmt.Println(FindNumByPartSort(data, 5))
+	// fmt.Println(FindNumByPartSort(data, 5))
 
 }
