@@ -20,6 +20,11 @@
 #### [寻找最小的k个数———利用最大堆](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/shuzu/demo2)
 #### [寻找和为定值的两个数](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/shuzu/demo4)
 
+
+### 练习算法
+#### [01背包问题](https://gitee.com/yuweiwuyazi/bianchengzhuji/tree/master/shuzu/demo5/pratice)
+
+
 ## 目录【github】
 ### 字符串
 #### [字符串旋转——蛮力移位](https://github.com/yuwe1/bianchengzhuji/tree/master/tstring/demo1)
@@ -37,10 +42,8 @@
 #### [寻找和为定值的两个数](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo4)
 
 
-更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
-更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
-更多详细笔记可关注微信公众号  ^_^  ^_^ <br />
-
+### 练习算法
+#### [01背包问题](https://github.com/yuwe1/bianchengzhuji/tree/master/shuzu/demo5/pratice)
 
 ## 联系我
 <div style="align: center">
